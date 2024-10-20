@@ -4,7 +4,7 @@
 
 👉 [Read the paper](https://arxiv.org/abs/2410.12880)
 
-👉 [Dataset](https://huggingface.co/datasets/SoftMINER/CulturalKaleidoscope)
+👉 [Dataset](https://huggingface.co/datasets/SoftMINER-Group/CulturalKaleidoscope)
 
 #### We are working on the preference dataset and multiturn dataset. Will publish soon.
 
