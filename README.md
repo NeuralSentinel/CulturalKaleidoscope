@@ -6,6 +6,8 @@
 
 👉 [Dataset](https://huggingface.co/datasets/SoftMINER-Group/CulturalKaleidoscope)
 
+👉 [Cultural Preference Dataset](https://huggingface.co/datasets/SoftMINER-Group/CulturalKaleidoscope_Preference)
+
 #### We are working on the preference dataset and multiturn dataset. Will publish soon.
 
 ## Citation
