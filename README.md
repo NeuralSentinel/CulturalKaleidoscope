@@ -2,6 +2,8 @@
 
 #### We are currently updating our repository. The code will be uploaded once our paper is accepted.
 
+👉 [Project page](https://neuralsentinel.github.io/KaleidoCulture/)
+
 👉 [Read the paper](https://arxiv.org/abs/2410.12880)
 
 👉 [Singleturn Dataset](https://huggingface.co/datasets/SoftMINER-Group/CulturalKaleidoscope)
